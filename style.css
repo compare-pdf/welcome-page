@@ -69,7 +69,7 @@ nav ul li a:hover {
 }
 
 main {
-    padding: 40px 0;
+    padding: 20px 0;
 }
 
 .welcome {
@@ -78,7 +78,7 @@ main {
 }
 
 .welcome h1 {
-    font-size: 42px;
+    font-size: 36px;
     font-weight: 700;
     color: #2c3e50;
 }
